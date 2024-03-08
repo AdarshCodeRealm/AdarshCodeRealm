@@ -1,10 +1,9 @@
-<style>
-  .banner{
-    background-color:red;
-    width:100px;
-    height:100px;
-</style>
-<div class="banner"></div>
+
+![Background Image](path/to/your/image.jpg)
+
+## My Profile
+
+**Skills:** (Continue your content here...)
 <h1 align="center">Hi 👋, I'm Adarsh Ramgirwar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
