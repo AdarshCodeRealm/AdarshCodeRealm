@@ -1,4 +1,4 @@
-![Alt text](240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+![Alt text](e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 <h1 align="center">Hi 👋, I'm Adarsh Ramgirwar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
