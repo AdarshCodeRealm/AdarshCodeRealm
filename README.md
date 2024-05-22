@@ -1,4 +1,4 @@
-![Alt text](e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
+
 <h1 align="center">Hi 👋, I'm Adarsh Ramgirwar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="mario-animated.gif">
