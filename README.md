@@ -25,5 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshcoderealm&show_icons=true&locale=en&layout=compact" alt="adarshcoderealm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshcoderealm&show_icons=true&locale=en" alt="adarshcoderealm" /></p>
-
+![](https://leetcard.jacoblin.cool/AdarshCodeRealm?ext=heatmap)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshcoderealm&" alt="adarshcoderealm" /></p>
