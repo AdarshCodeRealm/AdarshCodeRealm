@@ -37,4 +37,6 @@
 </table>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshcoderealm&" alt="adarshcoderealm" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshcoderealm&theme=dark" alt="adarshcoderealm" />
+</p>
