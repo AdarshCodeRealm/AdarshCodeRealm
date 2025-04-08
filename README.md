@@ -36,26 +36,3 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshcoderealm&theme=dark" alt="GitHub Streak" />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://leetcard.jacoblin.cool/AdarshCodeRealm?ext=heatmap" alt="LeetCode Heatmap" />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/?username=AdarshCodeRealm&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshcoderealm&theme=dark" alt="adarshcoderealm" />
-</p>
